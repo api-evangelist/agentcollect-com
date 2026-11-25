@@ -66,7 +66,7 @@
 
 AgentCollect provides an AI-powered billing concierge that integrates with existing billing systems to accelerate invoice payments, reduce disputes, and improve cash flow. Their platform offers voice‑enabled agents, AI audit tools, and customizable workflows for businesses of all sizes, emphasizing security and compliance. The service includes real‑time analytics, automated dispute handling, and seamless integration via API or spreadsheet upload, aiming to streamline the entire accounts‑receivable process.
 
-**Areas:** FinTech · AI · Billing · Payments · SaaS · Company
+**Areas:** Fintech · Artificial Intelligence · Billing · Payments · Software-as-a-Service · Company
 
 ## AgentCollect on APIs.io
 
@@ -90,8 +90,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentcollect Com Domain Security](https://apis.io/security/agentcollect-com/agentcollect-com-domain-security/)
-- [Agentcollect Com Trust Center](https://apis.io/security/agentcollect-com/agentcollect-com-trust-center/)
+- [AgentCollect Domain Security](https://apis.io/security/agentcollect-com/agentcollect-com-domain-security/)
+- [AgentCollect Trust Center](https://apis.io/security/agentcollect-com/agentcollect-com-trust-center/)
 
 ## Where to find this API
 
@@ -109,25 +109,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 41.4** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 32.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 35.5 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
+| Discoverability | 73.2 |
+| Contract quality | 10.7 |
+| Contract governance | 35.6 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 47.4 |
+| Access clarity | 57.4 |
 
-**Agent readiness 39.0** — agent-ready (gated down from agent-native)
+**Agent readiness 32.4** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -135,7 +135,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -145,6 +145,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 25.0** — Payments
 
